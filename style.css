@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: palevioletred;
+}
+
+.sariq {
+    background-color: yellow;
+    padding: 14px 50px;
+}
+
+.rer {
+    color: yellow;
+}
+
+.h1 {
+    color: white;
+    text-align: center;
+    font-size: 70px;
+
+}
+
+.lilo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: yellow;
+}
+
+.qora {
+    background-color: black;
+    width: 330px;
+    text-align: center;
+    color: white;
+}
+
+.qora h2 {
+    margin: 18px auto;
+}
+
+.qora p {
+    padding: 25 px;
+}
+
+.ota2 {
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    flex-wrap: wrap;
+    background-color: yellow;
+    margin-top: 60px;
+}
